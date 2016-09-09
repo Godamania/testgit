@@ -1,5 +1,4 @@
 harry
 partB
 partA
-partc
 partD
